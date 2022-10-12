@@ -8,6 +8,7 @@ export default {
     children:
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum necessitatibus qui pariatur illum culpa consequatur, deserunt a consequuntur, dolor nihil similique dolorum quis totam molestiae minus tenetur ut eos accusantium.',
     size: 'md',
+    weight: 'regular',
   },
   argTypes: {
     size: {
@@ -26,6 +27,12 @@ export default {
         '8xl',
         '9xl',
       ],
+      control: {
+        type: 'inline-radio',
+      },
+    },
+    weight: {
+      options: ['regular', 'semi-bold', 'bold'],
       control: {
         type: 'inline-radio',
       },

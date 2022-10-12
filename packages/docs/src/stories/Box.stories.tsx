@@ -5,16 +5,12 @@ export default {
   title: 'Surfaces/Box',
   component: Box,
   args: {
-    children: (
-      <>
-        <Text>Testando o primeiro box</Text>
-      </>
-    ),
+    children: <Text>Testando o primeiro box</Text>,
   },
   argTypes: {
     children: {
-      control: {
-        type: null,
+      table: {
+        disable: true,
       },
     },
   },

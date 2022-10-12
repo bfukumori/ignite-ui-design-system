@@ -15,6 +15,12 @@ export default {
         type: 'inline-radio',
       },
     },
+    weight: {
+      options: ['regular', 'semi-bold', 'bold'],
+      control: {
+        type: 'inline-radio',
+      },
+    },
   },
 } as Meta<HeadingProps>
 
