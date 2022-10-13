@@ -1,41 +1,13 @@
-<p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/bfukumori/
-ignite-ui-design-system?color=%2304D361">
-
-<img alt="Repository size" src="https://img.shields.io/github/repo-size/bfukumori/
-ignite-ui-design-system">
-
-<a href="https://github.com/bfukumori/
-ignite-ui-design-system/commits/master">
-<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/bfukumori/
-ignite-ui-design-system">
-</a>
-
-   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-   <a href="https://github.com/bfukumori/
-ignite-ui-design-system/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/bfukumori/
-ignite-ui-design-system?style=social">
-  </a>
-
-<a href="https://bfukumori.github.io/
-ignite-ui-design-system/">
-<img alt="
-ignite-ui-design-system" src="https://img.shields.io/badge/
-ignite-ui-design-system-%237159c1?style=flat&logo=ghost">
-</a>
-
-</p>
-
 <h1 align="center">
     Ignite Design System
 </h1>
 
 <p align="center">
   <a href="#about">About</a> •
-  <a href="#packages">NPM Packages</a> • 
+  <a href="#npm-packages">NPM Packages</a> • 
+  <a href="#storybook-docs"> Storybook Docs</a> •
   <a href="#author">Author</a> • 
-  <a href="#user-content-license">License</a>
+  <a href="#license">License</a>
 </p>
 
 ## About
@@ -49,6 +21,12 @@ Using monorepo approach with [TurboRepo](https://turborepo.org/) and [Storybook]
 ## NPM Packages
 
 [@ds-ignite-ui/react](https://www.npmjs.com/package/@ds-ignite-ui/react)
+
+---
+
+## Storybook Docs
+
+[Storybook Docs](https://bfukumori.github.io/ignite-ui-design-system/)
 
 ---
 
