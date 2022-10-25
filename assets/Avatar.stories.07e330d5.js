@@ -1,0 +1,2 @@
+import{A as t}from"./index.b9d593af.js";import"./index.d2856012.js";import"./iframe.0d940493.js";import"./index.942f21ea.js";import"./jsx-runtime.4dd4e70e.js";const m={title:"Data display/Avatar",component:t,args:{src:"https://github.com/bfukumori.png",alt:"Bruno Fukumori"},argTypes:{src:{control:{type:"text"}}}},p={},c={args:{src:void 0}},e=["Primary","WithFallBack"];export{p as Primary,c as WithFallBack,e as __namedExportsOrder,m as default};
+//# sourceMappingURL=Avatar.stories.07e330d5.js.map
